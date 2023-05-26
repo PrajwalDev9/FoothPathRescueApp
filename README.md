@@ -16,4 +16,5 @@ FootPath Rescue Android application aims to facilitate citizen participation in 
 
 
 
-![image](https://github.com/PrajwalDev9/FoothPathRescueApp/assets/73089657/e0932b4c-adbd-4458-82cb-9a725c1ccc8c)
+![image](https://github.com/PrajwalDev9/FoothPathRescueApp/assets/73089657/e7e74cc1-26bf-429b-ac77-30ffe3442ac9)
+
